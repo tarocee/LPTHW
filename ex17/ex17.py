@@ -21,3 +21,8 @@ print("Alright, all done")
 
 out_file.close()
 in_file.close()
+
+
+# Trying to write the above code in few lines of code
+
+# open(to_file,'w').write(open(from_file).read())
