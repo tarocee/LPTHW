@@ -1,0 +1,25 @@
+What I know so far
+here is a list of python symbols and their names I have come to learn.
+
+() parentheses: these are used to invoke or call functions and methods eg print('hello').
+'' single quotes: these are used to create strings eg 'hi'.
+"" double quotes: these are also used to create strings eg "hello".
+# hash character or pound sign: this is used to create comments, comments are used to help other programmers or yourself if you forget, what certain blocks of code are used for. eg # this function is for adding two numbers
+= Assignment operator: this is used to store a value on the right side of the symbol into a variable on the left side of it eg my_name = "Vinny"
+Here are some math operators:
++: plus
+-: minus
+/: slash
+*: asterisk
+%: percent or modulo
+<: less-than
+>: greater-than
+<=: less-than-equal
+>=: greater-than-equal
+
+all the above symbols work the same as in math except the percent sign(%) or modulo operator which returns a remender eg 10 % 3 results in 1 because 3 goes into 10 three times with 1 left over.
+
+, comma: this is used to seperate argument or parameters inside a functions or methods prentheses eg print('hello',end='*')
+
+: colon: this is used to indicate that a new block of code is starting eg def my_name(name):
+
