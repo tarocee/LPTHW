@@ -1,4 +1,4 @@
-i = 0
+i = 8
 numbers = []
 
 while i < 6:
@@ -13,3 +13,16 @@ print("The nembers: ")
 
 for num in numbers:
     print(num)
+
+
+def while_loop(start,counter):
+    while start < 6:
+        print(f"At the top num is {start}")
+        numbers.append(start)
+
+        start += counter
+        print("Numbers now:",numbers)
+        print(f"At the bottom num is {start}")
+
+
+while_loop(0,2)
